@@ -34,7 +34,6 @@
   line-height: 20px;
   color: white;
 }
-
 .footer__social-link {
   font-family: Inter, Arial, sans-serif;
   font-style: normal;
@@ -48,11 +47,9 @@
 .footer__social-link:hover {
   color: #c1c1c1;
 }
-
 .footer__social-icon {
   margin-right: 10px;
 }
-
 .footer__copyright {
   font-family: Inter, Arial, sans-serif;
   font-style: normal;
