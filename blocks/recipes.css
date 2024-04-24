@@ -14,6 +14,7 @@
   font-size: 44px;
   line-height: 52px;
   color: white;
+  margin: 0;
 }
 
 .recipes__videos {
@@ -24,6 +25,7 @@
 .recipes__iframe {
   width: 480px;
   height: 273px;
+  border: none;
 }
 .recipes__video-caption {
   font-family: Inter, Arial, sans-serif;
@@ -38,7 +40,7 @@
   color: white;
 }
 .recipes__subtitle {
-  font-family: Noto-Serif, "Times New Roman", serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;

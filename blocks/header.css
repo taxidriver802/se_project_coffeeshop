@@ -1,15 +1,13 @@
 .header {
-  background-image: url(../images/background_header.svg);
-  background-color: #ffffff;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+  background: center / cover no-repeat url(../images/background_header.svg),
+    #ffffff;
   padding: 30px 80px 40px;
   min-height: 720px;
   max-height: 800px;
   height: 100vh;
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
 }
 .header__image {
   position: absolute;
